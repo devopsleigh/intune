@@ -1,0 +1,1 @@
+changepk.exe /ProductKey 
